@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "async-pipe"
+  "defaultProject": "async-pipe",
+  "cli": {
+    "analytics": false
+  }
 }
